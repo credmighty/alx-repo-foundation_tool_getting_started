@@ -15,18 +15,21 @@ Calculation:  100.0% + (100.0% * 100.0%)  == 200.0%
 Concepts
 For this project, we expect you to look at these concepts:
 
-[Struggling with the sandbox? Try this: Using Docker & WSL on your local host](
-[Authenticating Git](
+- [Struggling with the sandbox? Try this: Using Docker & WSL on your local host](https://docs.google.com/document/d/1lEJrOcAtkzu7Fth7Aqd8_K2S_JaioEETfGzOvEeVwdY/edit?usp=sharing)
+- [Authenticating Git](https://docs.google.com/document/d/1tASFJuplmc0tYawm3-ffh_MjVDRCBOBu8dHiXpbJ7gw/edit?usp=sharing)
+- [Source code management](https://docs.google.com/document/d/1uhE5SWWcLx5xdSDgPdZ6gFbfn8tkucoT6pR7TqtAQ04/edit?usp=sharing)
+- [Right-engineering, right-documenting](https://docs.google.com/document/d/1cloi9LOUf0lGQ7k_1bFKJ-wg_iOX6llnG2gwYDzyWEY/edit?usp=sharing)
+- [Git and Github cheat sheet - Everything in less than 30 seconds](https://docs.google.com/document/d/1GlmqqtynsFFxL7cGEqekBIf_Qf9NZlDNTdnb5dyYzFg/edit?usp=sharing)
 Resources
 Read or watch:
 
-[Resources to learn Git](
-[About READMEs](
-[How to write a Git commit message](
+- [Resources to learn Git](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git)
+- [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+- [How to write a Git commit message](https://cbea.ms/git-commit/)
 Resources for advanced tasks (Read only after finishing the mandatory tasks):
 
-[Learning branching](
-[Effective pull requests and other good practices for teams using GitHub](
+- [Learning branching](https://learngitbranching.js.org/)
+- [Effective pull requests and other good practices for teams using GitHub](https://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
